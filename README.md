@@ -1,8 +1,8 @@
-# Google_GAS_Monitor, Use Google Sheet scripts to monitor stock data and alert through webhook.
+# Google_GAS_Monitor, Use Google Sheet scripts to monitor stock trend and alert through webhook.
 
-功能：用谷歌Sheet的脚本监控股票数据并通过webhook提醒。
+功能：用谷歌Sheet的脚本监控股票均价趋势并通过webhook提醒。超过均价和低于均价均提醒。可以设置均价周期及监控周期。
 
-1，新建一个Google Sheet，配置config sheet把想监控的信息和要求放进去。模板如下
+1，新建一个Google Sheet，配置config sheet把想监控的信息和要求放进去。模板如下。可以定义你自己想监控的
 
 ticker         ma_window      webhook                                    main_sheet         log_sheet             freq
 
