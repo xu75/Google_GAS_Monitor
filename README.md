@@ -1,0 +1,2 @@
+# Google_GAS_Monitor
+用谷歌Sheet的脚本监控股票数据并提醒
