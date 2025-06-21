@@ -1,4 +1,4 @@
-# Google_GAS_Monitor, Use Google Sheet scripts to monitor stock trend and alert through webhook.
+# Stock-ETF_Monitor-GAS-, Use Google Sheet scripts to monitor stock trend and alert through webhook.
 
 功能：用谷歌Sheet的脚本监控股票均价趋势并通过webhook提醒。超过均价和低于均价均提醒。可以设置均价周期及监控周期。
 
